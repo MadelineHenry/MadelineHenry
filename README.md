@@ -9,4 +9,4 @@ I'm a junior web developer currently improving my coding skills at the six month
 - 🌱 I’m currently learning at [Becode](https://becode.org/fr/apprendre/developpeur-web-junior/)
 
 
-! [Statistiques GitHub Madeline Henry] (https://github-readme-stats.vercel.app/api?username=MadelineHenry&theme=graywhite_icons=true)
+! [Statistiques GitHub MadelineHenry] (https://github-readme-stats.vercel.app/api?username=MadelineHenry&theme=graywhite_icons=true)
