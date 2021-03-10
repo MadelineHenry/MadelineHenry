@@ -1,4 +1,4 @@
-![Cover](https://github.com/NMadelineHenry/MadelineHenry/blob/master/img/cover.jpg)
+![Cover](https://github.com/MadelineHenry/MadelineHenry/blob/main/img/cover.jpg)
 
 ### Hello everyone
 
