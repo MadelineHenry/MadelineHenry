@@ -1,8 +1,9 @@
 ![Cover](https://github.com/MadelineHenry/MadelineHenry/blob/main/img/cover.jpg)
 
-### Hello everyone:blush:
+### Hello everyone :blush:
 
 Hello everyone
+
 My name's Madeline, I'm fashion designer and also a junior web developer currently improving my coding skills at the ten months BeCode webdev training in Brussels (Belgium). I'm now in my sixth month of training and I'm looking for a two-month apprenticeship starting in May. 
 Please contact me and wish me luck :crossed_fingers: :shamrock:
 
