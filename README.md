@@ -2,7 +2,7 @@
 
 ### Hello everyone
 
-I'm a junior web developer currently improving my coding skills at the six months BeCode webdev training in Brussels (Belgium).
+My name is Madeline and I'm a junior web developer currently improving my coding skills at the six months BeCode webdev training in Brussels (Belgium).
 
 - 🔖 Discover my [Curriculum Vitae](https://github.com/MadelineHenry/MadelineHenry/blob/main/img/Curriculum%20Vitae%20-%20Madeline%20Henry%202021%20-%20Web%20dev%20(Fran%C3%A7ais).pdf)
 - 🔭 I’m currently working on web site presentation of my work.
